@@ -1,0 +1,572 @@
+# 
+# Wavefront material file
+# Converted by the DEEP Exploration  Deep Exploration 6.5 x64 6.5.0.9182
+# Right Hemisphere, LTD
+# http://www.righthemisphere.com/
+# 
+
+newmtl Explorer_Default
+Ka 0.117647 0.117647 0.117647
+Kd 0.752941 0.752941 0.752941
+Ks 0.752941 0.752941 0.752941
+illum 2
+Ns 8
+map_Kd 
+map_bump 
+bump 
+map_opacity 
+map_d 
+refl 
+map_kS 
+map_kA 
+map_Ns 
+
+newmtl plastic_black
+Ka 0 0 0
+Kd 0.0117647 0.0117647 0.0117647
+Ks 1 1 1
+illum 2
+Ns 388.023
+map_Kd 
+map_bump 
+bump 
+map_opacity 
+map_d 
+refl 
+map_kS 
+map_kA 
+map_Ns 
+
+newmtl paint_green_clean
+Ka 0 0 0
+Kd 0 0.294118 0
+Ks 0 1 0
+illum 2
+Ns 2048
+map_Kd 
+map_bump 
+bump 
+map_opacity 
+map_d 
+refl 
+map_kS 
+map_kA 
+map_Ns 
+
+newmtl chrome
+Ka 0 0 0
+Kd 0.121569 0.121569 0.121569
+Ks 1 1 1
+illum 2
+Ns 2048
+map_Kd 
+map_bump 
+bump 
+map_opacity 
+map_d 
+refl 
+map_kS 
+map_kA 
+map_Ns 
+
+newmtl main_label
+Ka 0 0 0
+Kd 1 1 1
+Ks 1 1 1
+illum 2
+Ns 2048
+map_Kd tractor_john_deere_body_front_diffuse.png
+map_bump 
+bump 
+map_opacity 
+map_d 
+refl 
+map_kS 
+map_kA 
+map_Ns 
+
+newmtl paint_green_dirt
+Ka 0 0 0
+Kd 1 1 1
+Ks 1 1 1
+illum 2
+Ns 2048
+map_Kd tractor_john_deere_body_diffuse.png
+map_bump 
+bump 
+map_opacity 
+map_d 
+refl 
+map_kS 
+map_kA 
+map_Ns 
+
+newmtl paint_dark_green
+Ka 0 0 0
+Kd 0 0.113726 0
+Ks 0 1 0
+illum 2
+Ns 2048
+map_Kd 
+map_bump 
+bump 
+map_opacity 
+map_d 
+refl 
+map_kS 
+map_kA 
+map_Ns 
+
+newmtl top_headlights
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+illum 2
+Ns 64
+d 0.1
+map_Kd tractor_john_deere_top_headlights_refract_glossy.png
+map_bump 
+bump 
+map_opacity 
+map_d 
+refl 
+map_kS 
+map_kA 
+map_Ns 
+
+newmtl mirror
+Ka 0 0 0
+Kd 0.121569 0.121569 0.121569
+Ks 0 0 0
+illum 2
+Ns 64
+map_Kd 
+map_bump 
+bump 
+map_opacity 
+map_d 
+refl 
+map_kS 
+map_kA 
+map_Ns 
+
+newmtl top_headlights1
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+illum 2
+Ns 64
+d 0.1
+map_Kd tractor_john_deere_side_headlights_bump.png
+map_bump 
+bump 
+map_opacity 
+map_d 
+refl 
+map_kS 
+map_kA 
+map_Ns 
+
+newmtl no_emptiness
+Ka 0 0 0
+Kd 0.0117647 0.0117647 0.0117647
+Ks 0 0 0
+illum 2
+Ns 64
+map_Kd 
+map_bump 
+bump 
+map_opacity 
+map_d 
+refl 
+map_kS 
+map_kA 
+map_Ns 
+
+newmtl dark_white_sheating
+Ka 0 0 0
+Kd 0.133333 0.113726 0.0784314
+Ks 0.0553012 0.0471687 0.0325301
+illum 2
+Ns 32
+map_Kd 
+map_bump 
+bump 
+map_opacity 
+map_d 
+refl 
+map_kS 
+map_kA 
+map_Ns 
+
+newmtl steel_black_mat
+Ka 0 0 0
+Kd 0.00784314 0.00784314 0.00784314
+Ks 1 1 1
+illum 2
+Ns 194.012
+map_Kd 
+map_bump 
+bump 
+map_opacity 
+map_d 
+refl 
+map_kS 
+map_kA 
+map_Ns 
+
+newmtl white_sheathing
+Ka 0 0 0
+Kd 0.388235 0.388235 0.294118
+Ks 0.048956 0.048956 0.0370879
+illum 2
+Ns 36.7583
+map_Kd 
+map_bump 
+bump 
+map_opacity 
+map_d 
+refl 
+map_kS 
+map_kA 
+map_Ns 
+
+newmtl speedometer
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+illum 2
+Ns 64
+map_Kd tractor_john_deere_speedometer_diffuse.png
+map_bump 
+bump 
+map_opacity 
+map_d 
+refl 
+map_kS 
+map_kA 
+map_Ns 
+
+newmtl rubber
+Ka 0 0 0
+Kd 0.00392157 0.00392157 0.00392157
+Ks 0.765 0.765 0.765
+illum 2
+Ns 157.586
+map_Kd 
+map_bump 
+bump 
+map_opacity 
+map_d 
+refl 
+map_kS 
+map_kA 
+map_Ns 
+
+newmtl radiator_lamps_border
+Ka 0 0 0
+Kd 0.0313726 0.0313726 0.0313726
+Ks 0.459 0.459 0.459
+illum 2
+Ns 137.187
+map_Kd 
+map_bump 
+bump 
+map_opacity 
+map_d 
+refl 
+map_kS 
+map_kA 
+map_Ns 
+
+newmtl glass
+Ka 0 0 0
+Kd 0 0.0392157 0.0313726
+Ks 0 0 0
+illum 2
+Ns 64
+d 0.35
+map_Kd 
+map_bump 
+bump 
+map_opacity 
+map_d 
+refl 
+map_kS 
+map_kA 
+map_Ns 
+
+newmtl bronze
+Ka 0 0 0
+Kd 0.588235 0.207843 0
+Ks 1 0.353333 0
+illum 2
+Ns 22.6274
+map_Kd 
+map_bump 
+bump 
+map_opacity 
+map_d 
+refl 
+map_kS 
+map_kA 
+map_Ns 
+
+newmtl glass_front_headlights
+Ka 0 0 0
+Kd 0.00392157 0.00392157 0.00392157
+Ks 0 0 0
+illum 2
+Ns 64
+d 0.1
+map_Kd 
+map_bump 
+bump 
+map_opacity 
+map_d 
+refl 
+map_kS 
+map_kA 
+map_Ns 
+
+newmtl plastic_yellow
+Ka 0 0 0
+Kd 1 0.682353 0.0117647
+Ks 1 0.682353 0.0117647
+illum 2
+Ns 388.023
+map_Kd 
+map_bump 
+bump 
+map_opacity 
+map_d 
+refl 
+map_kS 
+map_kA 
+map_Ns 
+
+newmtl yellow_headlight_label
+Ka 0 0 0
+Kd 1 1 1
+Ks 1 1 1
+illum 2
+Ns 2048
+map_Kd tractor_john_deere_yellow_headlight_diffuse.png
+map_bump 
+bump 
+map_opacity 
+map_d 
+refl 
+map_kS 
+map_kA 
+map_Ns 
+
+newmtl additional_control_panel
+Ka 0 0 0
+Kd 1 1 1
+Ks 0.855 0.855 0.855
+illum 2
+Ns 630.346
+map_Kd tractor_john_deere_control_panel_diffuse.png
+map_bump 
+bump 
+map_opacity 
+map_d 
+refl 
+map_kS 
+map_kA 
+map_Ns 
+
+newmtl plastic_gray
+Ka 0 0 0
+Kd 0.278431 0.278431 0.278431
+Ks 0.585 0.585 0.585
+illum 2
+Ns 64
+map_Kd 
+map_bump 
+bump 
+map_opacity 
+map_d 
+refl 
+map_kS 
+map_kA 
+map_Ns 
+
+newmtl plastic_orange
+Ka 0 0 0
+Kd 1 0.313726 0.0117647
+Ks 1 0.313726 0.0117647
+illum 2
+Ns 388.023
+map_Kd 
+map_bump 
+bump 
+map_opacity 
+map_d 
+refl 
+map_kS 
+map_kA 
+map_Ns 
+
+newmtl body_plastic_black
+Ka 0 0 0
+Kd 0.0117647 0.0117647 0.0117647
+Ks 0.144 0.144 0.144
+illum 2
+Ns 34.2967
+map_Kd 
+map_bump 
+bump 
+map_opacity 
+map_d 
+refl 
+map_kS 
+map_kA 
+map_Ns 
+
+newmtl steel
+Ka 0 0 0
+Kd 0.0470588 0.0470588 0.0470588
+Ks 1 1 1
+illum 2
+Ns 64
+map_Kd 
+map_bump 
+bump 
+map_opacity 
+map_d 
+refl 
+map_kS 
+map_kA 
+map_Ns 
+
+newmtl radiator
+Ka 0 0 0
+Kd 1 1 1
+Ks 0.459 0.459 0.459
+illum 2
+Ns 137.187
+map_Kd tractor_john_deere_radiator_diffuse.png
+map_bump 
+bump 
+map_opacity 
+map_d 
+refl 
+map_kS 
+map_kA 
+map_Ns 
+
+newmtl chrome_headlights
+Ka 0 0 0
+Kd 0.215686 0.215686 0.215686
+Ks 1 1 1
+illum 2
+Ns 2048
+map_Kd 
+map_bump 
+bump 
+map_opacity 
+map_d 
+refl 
+map_kS 
+map_kA 
+map_Ns 
+
+newmtl glass_red_mat
+Ka 0 0 0
+Kd 0.588235 0 0
+Ks 1 0 0
+illum 2
+Ns 2048
+d 0.5
+map_Kd 
+map_bump 
+bump 
+map_opacity 
+map_d 
+refl 
+map_kS 
+map_kA 
+map_Ns 
+
+newmtl glass_orange
+Ka 0 0 0
+Kd 0.588235 0.14902 0
+Ks 1 0.253333 0
+illum 2
+Ns 2048
+d 0.5
+map_Kd 
+map_bump 
+bump 
+map_opacity 
+map_d 
+refl 
+map_kS 
+map_kA 
+map_Ns 
+
+newmtl back_wheels_center
+Ka 0 0 0
+Kd 1 1 1
+Ks 1 1 1
+illum 2
+Ns 1260.69
+map_Kd tractor_john_deere_back_wheels_center_diffuse.png
+map_bump 
+bump 
+map_opacity 
+map_d 
+refl 
+map_kS 
+map_kA 
+map_Ns 
+
+newmtl front_wheels_center
+Ka 0 0 0
+Kd 1 1 1
+Ks 1 1 1
+illum 2
+Ns 1176.27
+map_Kd tractor_john_deere_front_wheels_center_diffuse.png
+map_bump 
+bump 
+map_opacity 
+map_d 
+refl 
+map_kS 
+map_kA 
+map_Ns 
+
+newmtl tires
+Ka 0 0 0
+Kd 1 1 1
+Ks 1 1 1
+illum 2
+Ns 388.023
+map_Kd tractor_john_deere_tires_diffuse.png
+map_bump 
+bump 
+map_opacity 
+map_d 
+refl 
+map_kS 
+map_kA 
+map_Ns 
+
+newmtl dark_steel
+Ka 0 0 0
+Kd 0.00784314 0.00784314 0.00784314
+Ks 1 1 1
+illum 2
+Ns 45.2548
+map_Kd 
+map_bump 
+bump 
+map_opacity 
+map_d 
+refl 
+map_kS 
+map_kA 
+map_Ns 
